@@ -117,7 +117,7 @@ export default function HomePage() {
         {/* Audience and Roadmap */}
         <section className="container mx-auto px-4 py-10 space-y-8">
           <div>
-            <h2 className="text-[#0d141c] text-xl font-bold">Who's it for?</h2>
+            <h2 className="text-[#0d141c] text-xl font-bold">Who&apos;s it for?</h2>
             <p className="text-[#0d141c] mt-2 text-base leading-relaxed">
               Budget-conscious K-12 schools. Coaching centers, vocational programs. NGOs like Teach For India,
               Akanksha.
